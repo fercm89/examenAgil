@@ -1,0 +1,8 @@
+Hacemos el test para el producto de dos números naturales
+
+A la hora de comprobar esta funcionalidad de multiplicar, deberemos hacer varias comprobaciones como por ejemplo:
+
+4*3=12
+3*7=21
+
+(-2) * (-2)= 4
