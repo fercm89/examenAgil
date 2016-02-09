@@ -1,0 +1,7 @@
+Hacemos el test para la notación de números romanos
+
+A la hora de comprobar esta funcionalidad de números romanos, deberemos hacer la conversión como por ejemplo:
+
+4 es IV
+3 es III
+10 es X
