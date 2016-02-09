@@ -1,0 +1,1 @@
+Este usuario sólo aceptará números naturales cuando el resultado sea un número no natural
