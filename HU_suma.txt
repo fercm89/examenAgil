@@ -1,0 +1,3 @@
+Se realiza la historia de usuario 1:
+
+Suma de 2 números naturales
