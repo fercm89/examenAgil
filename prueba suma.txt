@@ -1,0 +1,8 @@
+Hacemos el test para la suma de dos números naturales
+
+A la hora de comprobar esta funcionalidad de suma, deberemos hacer varias comprobaciones como por ejemplo:
+
+4+4=8
+3+7=10
+
+(-2) + (-2)= -4
