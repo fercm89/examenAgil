@@ -1,0 +1,8 @@
+Hacemos el test para la resta de dos números naturales
+
+A la hora de comprobar esta funcionalidad de resta, deberemos hacer varias comprobaciones como por ejemplo:
+
+4-2=2
+3-1=2
+
+(-1) - (-2)= 1
