@@ -1,0 +1,6 @@
+Hacemos Test de Error de resta de dos numeros naturales
+
+A la hora de hacer una resta, el programa hará varias comprobaciones como:
+
+- Si el resultado es un número no natural o el primer valor es menor que el segundo, el programa dará error.
+ Por ejemplo, si (- 1) - 3 = -4
